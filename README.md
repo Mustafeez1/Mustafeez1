@@ -1,14 +1,13 @@
 # 💫 About Me:
+A passionate Data Analyst || Devops Engineer 
+
 ⚡I’m currently working on: Scaling MLOps pipelines using Docker and Kubernetes for intelligent recommendation systems.<br>📚 I’m learning: Advanced Machine Learning and automated CI/CD workflows to optimize model delivery.<br>🤝 Open to collaborate on: AI development, Data Engineering, and high-scale Cloud Projects.<br>🧩 Fun fact: I enjoy the challenge of translating complex data insights into functional code.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mustafeezulla Khan S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafeez72777@gmail.com) 
 
-<!-- Snake Game Repo View -->
-<div align = "Center">
-   <img src = "https://profile-readme-generator.com/assests/snake.svg" alt="Snake animation" />
-</div>
+
 
 
 
