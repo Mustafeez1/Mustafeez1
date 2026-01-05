@@ -1,11 +1,16 @@
 # 💫 About Me:
 A passionate Data Analyst || Devops Engineer 
 
-⚡I’m currently working on: Scaling MLOps pipelines using Docker and Kubernetes for intelligent recommendation systems.<br>📚 I’m learning: Advanced Machine Learning and automated CI/CD workflows to optimize model delivery.<br>🤝 Open to collaborate on: AI development, Data Engineering, and high-scale Cloud Projects.<br>🧩 Fun fact: I enjoy the challenge of translating complex data insights into functional code.
+⚡I’m currently working on: Scaling MLOps pipelines using Docker and Kubernetes for intelligent recommendation systems.<br>📚 I’m learning: Advanced Machine Learning and automated CI/CD workflo[...]
+
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mustafeezulla Khan S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafeez72777@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mustafeezulla Khan S) [![email](https://img.shields.io/badge/Email-D14836?logo=[...]
+
+
+
+
 
 
 
@@ -16,7 +21,7 @@ A passionate Data Analyst || Devops Engineer
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColo[...]
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mustafeez1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mustafeez1&theme=dark&hide_border=true)<br/>
@@ -35,3 +40,19 @@ A passionate Data Analyst || Devops Engineer
 [![](https://visitcount.itsvg.in/api?id=Mustafeez1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 🐍 Contributions Snake
+
+Add a GitHub "snake" animation that runs over your contributions heatmap (the platane/snk project) by generating a GIF and embedding it here.
+
+> Note: The GIF displayed below is expected to be created by a workflow that saves the generated GIF to `assets/snake.gif`. If you would like, I can add that workflow for you so the GIF is generated automatically on a schedule or on-demand.
+
+<img src="assets/snake.gif" alt="GitHub contributions snake" />
+
+
+<!-- After the workflow runs it will create assets/snake.gif and the image will appear here -->
+
+
+
+<!-- End of file -->
