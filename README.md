@@ -1,27 +1,60 @@
-# 💫 About Me:
-⚡I’m currently working on: Scaling MLOps pipelines using Docker and Kubernetes for intelligent recommendation systems.<br>📚 I’m learning: Advanced Machine Learning and automated CI/CD workflows to optimize model delivery.<br>🤝 Open to collaborate on: AI development, Data Engineering, and high-scale Cloud Projects.<br>🧩 Fun fact: I enjoy the challenge of translating complex data insights into functional code.
+<h1 align="center">Hi, I'm Mustafeez 👋</h1> <h3 align="center">AI Engineer (GenAI) · RAG · LLM Agents · MLOps</h3> <p align="center"> CSE graduate (Lovely Professional University, 2026) · Kadapa, India<br> <b>Open to full-time roles and internships in AI/ML Engineering, MLOps and Data Science</b> </p> <p align="center"> <a href="https://linkedin.com/in/smustafeez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="mailto:mustafeez72777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> </p>
+About Me
+I build Generative AI applications: RAG pipelines, tool-calling agents and LLM apps backed by vector databases.
+I care about grounded, reliable AI: context-only prompting, "I don't know" fallbacks, read-only data access.
+I measure what I ship. I trace latency, token usage and cost with LangSmith.
+I have a DevOps foundation: I've containerized and deployed ML services with Docker, Kubernetes and Splunk logging.
+Featured Projects
+🗄️ Natural Language to SQL Chatbot
 
+A LangChain tool-calling agent that turns plain-English questions into SQL across SQLite and MySQL, with live reasoning shown in a Streamlit UI.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mustafeezulla Khan S) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafeez72777@gmail.com) 
+Temperature 0 for consistent SQL, plus read-only database access to prevent unintended writes
+Measured across 23 LangSmith-traced runs: median 2.3s latency, ~2.6K tokens/query, under $0.01 total
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mustafeez1&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mustafeez1&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafeez1&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Python LangChain Groq Streamlit SQLite MySQL LangSmith
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mustafeez1&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+📄 PDF Question Answering System (RAG)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+An end-to-end RAG system that answers questions grounded in PDF documents.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mustafeez1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+800-char chunking (200 overlap), local nomic-embed-text embeddings and vector search in AstraDB
+Top-4 semantic retrieval with a context-only prompt and an "I don't know" fallback to limit hallucinations
+0% errors in testing, ~1K tokens/query, zero API cost, because Llama 3.2 and embeddings run locally via Ollama
 
----
-[![](https://visitcount.itsvg.in/api?id=Mustafeez1&icon=0&color=0)](https://visitcount.itsvg.in)
+Python LangChain AstraDB Ollama Llama 3.2 LangSmith
+
+💬 Conversational RAG with PDF + Message History
+
+A multi-turn PDF chatbot that keeps conversation history, so follow-up questions resolve against earlier context.
+
+Python LangChain Groq Ollama Embeddings ChromaDB Streamlit
+
+📚 Book Recommendation System, MLOps
+
+A cosine-similarity recommender served through Flask and deployed on Kubernetes.
+
+Containerized with Docker and deployed on a Minikube cluster with a declarative deployment.yaml for self-healing and scaling
+Structured JSON logs streamed from the pods to Splunk for debugging
+
+Python Flask Docker Kubernetes Splunk
+
+Tech Stack
+
+Languages Show Image Show Image
+
+Generative AI & LLMs Show Image Show Image Show Image Show Image Show Image Show Image
+
+Vector Databases Show Image Show Image Show Image
+
+Machine Learning & Data Show Image Show Image Show Image Show Image
+
+Backend & Databases Show Image Show Image Show Image Show Image
+
+DevOps & Tools Show Image Show Image Show Image Show Image Show Image
+
+Certifications
+Data Visualisation: Empowering Business with Effective Insights, Tata (Forage), 2026
+Machine Learning & Its Applications, iHub, IIT Roorkee, 2024
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
